@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rajagalau1.github.io/sensasi-scatter/sitemap.xml
